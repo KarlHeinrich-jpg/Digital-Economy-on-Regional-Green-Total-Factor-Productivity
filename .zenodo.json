@@ -1,0 +1,12 @@
+{
+  "title": "Digital Economy and Regional Green Total Factor Productivity: China Provincial Data and Spatial-Econometric Materials",
+  "upload_type": "dataset",
+  "description": "A research toolkit for empirical work on the relationship between China's digital economy and regional green total factor productivity. The repository assembles provincial panel indicators, green productivity measures, control variables, spatial-weight matrices, Markov-transition workbooks, Stata and MATLAB templates, and supporting data-processing materials. The README and linked data catalogue explain coverage, file organization, variable interpretation, software dependencies, and reproducibility limits. Many files are source or intermediate research materials rather than a single turnkey pipeline; users should document the exact workbook, script, sample period, and transformation used in each analysis.",
+  "creators": [
+    {"name": "KarlHeinrich-jpg"}
+  ],
+  "keywords": ["digital economy", "green total factor productivity", "China", "provincial panel", "spatial econometrics", "Stata", "MATLAB", "Markov chain"],
+  "related_identifiers": [
+    {"identifier": "https://github.com/KarlHeinrich-jpg/Digital-Economy-on-Regional-Green-Total-Factor-Productivity", "relation": "isIdenticalTo"}
+  ]
+}
